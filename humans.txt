@@ -1,8 +1,13 @@
+/* TEAM */
+Web Manager: George Osborn Jensen
+Site: geo@endurant.net, thoughtcontent.com/contact.html
+Twitter: twitter.com/geojensen
+
+/* SITE */
+Standards: HTML5, CSS3
+Components: jQuery, Orbit, Reveal
+Software: phpstorm, Git, Github
+
 /* Foundation was made by ZURB, an interaction design and design strategy firm in Campbell, CA */
 /* zurb.com */
 /* humanstxt.org */
-
-/* SITE */
-  Standards: HTML5, CSS3
-  Components: jQuery, Orbit, Reveal
-  Software: Coda, Textmate, Git
